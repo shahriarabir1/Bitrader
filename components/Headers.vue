@@ -3,7 +3,7 @@
       <div class="lightdark-switch" @click="toggleTheme">
         <span class="switch-btn" id="btnSwitch">
           <nuxt-image ref="themeIcon" width="0" height="0" sizes="100vw"
-            :src="theme === 'dark' ? '/images/icon/sun.svg' : '/images/icon/moon.svg'" alt="light-dark-switchbtn"
+            :src="theme === 'dark' ? '@/images/icon/sun.svg' : '@/images/icon/moon.svg'" alt="light-dark-switchbtn"
             class="swtich-icon" />
         </span>
       </div>
@@ -13,7 +13,7 @@
             <div class="header-wrapper">
               <div class="logo">
                 <NuxtLink to="/">
-                  <img class="dark" src='/images/logo/logo.png' alt="logo" />
+                  <img class="dark" src='@/images/logo/logo.png' alt="logo" />
                 </NuxtLink>
               </div>
   
@@ -29,7 +29,7 @@
                             <div class="col order-first">
                               <div class="home-showcase__item">
                                 <div class="home-showcase__image">
-                                  <img src="images/demo/1.png" alt="home-showcase" />
+                                  <img src="@/images/demo/1.png" alt="home-showcase" />
                                   <div class="home-showcase__buttons">
                                     <NuxtLink :to="{ pathname: '/', query: { theme: 'light' } }"
                                       class="trk-btn trk-btn--primary home-showcase__buttons-item mt-3">
@@ -47,7 +47,7 @@
                             <div class="col">
                               <div class="home-showcase__item">
                                 <div class="home-showcase__image">
-                                  <img src="images/demo/1-dark.png" alt="home-showcase" />
+                                  <img src="@/images/demo/1-dark.png" alt="home-showcase" />
                                   <div class="home-showcase__buttons">
                                     <NuxtLink :to="{ pathname: '/', query: { theme: 'dark' } }"
                                       class="trk-btn trk-btn--primary home-showcase__buttons-item mt-3">
@@ -67,7 +67,7 @@
                             <div class="col">
                               <div class="home-showcase__item">
                                 <div class="home-showcase__image">
-                                  <img src="images/demo/2.png" alt="home-showcase" />
+                                  <img src="@/images/demo/2.png" alt="home-showcase" />
                                   <div class="home-showcase__buttons">
                                     <NuxtLink :to="{ pathname: '/index-2', query: { theme: 'light' } }"
                                       class="trk-btn trk-btn--primary home-showcase__buttons-item mt-3">
@@ -87,7 +87,7 @@
                             <div class="col">
                               <div class="home-showcase__item">
                                 <div class="home-showcase__image">
-                                  <img src="images/demo/2-dark.png" alt="home-showcase" />
+                                  <img src="@/images/demo/2-dark.png" alt="home-showcase" />
                                   <div class="home-showcase__buttons">
                                     <NuxtLink :to="{ pathname: '/index-2', query: { theme: 'dark' } }"
                                       class="trk-btn trk-btn--primary home-showcase__buttons-item mt-3">
@@ -107,7 +107,7 @@
                             <div class="col">
                               <div class="home-showcase__item">
                                 <div class="home-showcase__image">
-                                  <img src="images/demo/3.png" alt="home-showcase" />
+                                  <img src="@/images/demo/3.png" alt="home-showcase" />
                                   <div class="home-showcase__buttons">
                                     <NuxtLink :to="{ pathname: '/index-3', query: { theme: 'light' } }"
                                       class="trk-btn trk-btn--primary home-showcase__buttons-item mt-3">
@@ -127,7 +127,7 @@
                             <div class="col">
                               <div class="home-showcase__item">
                                 <div class="home-showcase__image">
-                                  <img src="images/demo/3-dark.png" alt="home-showcase" />
+                                  <img src="@/images/demo/3-dark.png" alt="home-showcase" />
                                   <div class="home-showcase__buttons">
                                     <NuxtLink :to="{ pathname: '/index-3', query: { theme: 'dark' } }"
                                       class="trk-btn trk-btn--primary home-showcase__buttons-item mt-3">
@@ -145,7 +145,7 @@
                             <div class="col order-last">
                               <div class="home-showcase__item">
                                 <div class="home-showcase__image">
-                                  <img src="images/demo/new.png" alt="home-showcase" />
+                                  <img src="@/images/demo/new.png" alt="home-showcase" />
                                 </div>
                                 <h3 class="home-showcase__title">
                                   <NuxtLink scroll: false to="/#0">New Demos</NuxtLink>
