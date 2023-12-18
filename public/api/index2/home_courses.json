@@ -1,0 +1,56 @@
+[
+    {
+        "thumbnail": "https://thetork.com/demos/vue/educax/images/course/home2/1.png",
+        "title": "Basic Web Design",
+        "category": "Web Design",
+        "categoryID": 1,
+        "rating": 4.5,
+        "ratingCount": 1026,
+        "price": 150
+    },
+    {
+        "thumbnail": "https://thetork.com/demos/vue/educax/images/course/home2/2.png",
+        "title": "Graphic Design",
+        "category": "Graphic Design",
+        "categoryID": 1,
+        "rating": 4.8,
+        "ratingCount": 1326,
+        "price": 100
+    },
+    {
+        "thumbnail": "https://thetork.com/demos/vue/educax/images/course/home2/3.png",
+        "title": "Web Design 2023",
+        "category": "Web Design",
+        "categoryID": 1,
+        "rating": 4.6,
+        "ratingCount": 1510,
+        "price": 250
+    },
+    {
+        "thumbnail": "https://thetork.com/demos/vue/educax/images/course/home2/4.png",
+        "title": " UI/UX Design 2023",
+        "category": "UI/UX Design",
+        "categoryID": 1,
+        "rating": 4.9,
+        "ratingCount": 1136,
+        "price": 160
+    },
+    {
+        "thumbnail": "https://thetork.com/demos/vue/educax/images/course/home2/5.png",
+        "title": "Advance PHP 2023",
+        "category": "Programinng",
+        "categoryID": 1,
+        "rating": 4.5,
+        "ratingCount": 1226,
+        "price": 220
+    },
+    {
+        "thumbnail": "https://thetork.com/demos/vue/educax/images/course/home2/6.png",
+        "title": "Basic Web Design",
+        "category": "Web Design",
+        "categoryID": 1,
+        "rating": 4.7,
+        "ratingCount": 1433,
+        "price": 110
+    }
+]

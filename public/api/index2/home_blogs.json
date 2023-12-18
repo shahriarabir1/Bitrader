@@ -1,0 +1,58 @@
+ [
+        {
+            "thumbnail": "https://thetork.com/demos/vue/educax/images/blog/home2/1.png",
+            "title": "Why Product Thinking is the next big thing in UX Design",
+            "short_description" : "Sed do eiusmod temporincididunt ut labore et dolore magan aliqua. Dolor amet, consectetur adipiscingSed temporincididunt dolore mag aliqua. Dolor sit amet.",
+            "date": "30 December 2023",
+            "author": {
+                "name": "Leslie Alexander",
+                "avatar": "https://thetork.com/demos/vue/educax/images/testimonial/home1/1.png",
+                "role": "Frontend Designer"
+            }
+        },
+        {
+            "thumbnail": "https://thetork.com/demos/vue/educax/images/blog/home2/4.png",
+            "title": "Full-Stack Web Development — the Complete Roadmap",
+            "category": "Development",
+            "date": "21 April 2023",
+            "author": {
+                "name": "Leslie Alexander",
+                "avatar": "https://thetork.com/demos/vue/educax/images/testimonial/home1/3.png",
+                "role": "https://thetork.com/demos/vue/educax/images/avatar/2.png"
+            }
+        },
+        {
+            "thumbnail": "https://thetork.com/demos/vue/educax/images/blog/home2/5.png",
+            "title": "How to experience powerful education free of charge",
+            "category": "Activities",
+            "date": "21 April 2023",
+            "author": {
+                "name": "Ronald Richards",
+                "avatar": "https://thetork.com/demos/vue/educax/images/testimonial/home1/4.png",
+                "role": ""
+            }
+        },
+        {
+            "thumbnail": "https://thetork.com/demos/vue/educax/images/blog/home2/3.png",
+            "title": "Range Input That Looks Consistent Across All  Browser",
+            "category": "Business",
+            "date": "13 March 2023",
+            "author": {
+                "name": "Rassel Hossain",
+                "avatar": "https://thetork.com/demos/vue/educax/images/testimonial/home1/2.png",
+                "role": ""
+            }
+        },
+        {
+            "thumbnail": "https://thetork.com/demos/vue/educax/images/blog/home2/4.png",
+            "title": "10 Ways Improve Dropdowns in UI & UX Design",
+            "category": "Development",
+            "date": "21 April 2023",
+            "author": {
+                "name": "Leslie Alexander",
+                "avatar": "https://thetork.com/demos/vue/educax/images/testimonial/home1/3.png",
+                "role": "https://thetork.com/demos/vue/educax/images/avatar/2.png"
+            }
+        }
+        
+    ]

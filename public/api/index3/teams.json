@@ -1,0 +1,27 @@
+[
+        {
+            "avatar": "https://thetork.com/demos/vue/educax//images/team/home3/1.png",
+            "name": "Mike Lye",
+            "role": "President of Sales"
+        },
+        {
+            "avatar": "https://thetork.com/demos/vue/educax//images/team/home3/2.png",
+            "name": "Devid McCoy",
+            "role": "President of Sales"
+        },
+        {
+            "avatar": "https://thetork.com/demos/vue/educax//images/team/home3/3.png",
+            "name": "Devid McCoy",
+            "role": "President of Sales"
+        },
+        {
+            "avatar": "https://thetork.com/demos/vue/educax//images/team/home3/4.png",
+            "name": "Arlene McCoy",
+            "role": "President of Sales"
+        },
+        {
+            "avatar": "https://thetork.com/demos/vue/educax//images/team/home3/5.png",
+            "name": "Arlene McCoy",
+            "role": "President of Sales"
+        }
+    ]

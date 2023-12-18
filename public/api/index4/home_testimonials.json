@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Darrell Bell",
+        "banner": "https://thetork.com/demos/vue/educax/images/testimonial/home3/review/1.png",
+        "role": "Software developer",
+        "quote": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage",
+        "thumbnail": "https://thetork.com/demos/vue/educax/images/testimonial/home1/1.png"
+    },
+    {
+        "name": "Annette Black",
+        "banner": "https://thetork.com/demos/vue/educax/images/testimonial/home3/review/2.png",
+        "role": "Web Designer",
+        "rating": 2,
+        "quote": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage",
+        "thumbnail": "https://thetork.com/demos/vue/educax/images/testimonial/home1/2.png"
+    },
+    {
+        "name": "Jerome Bell",
+        "banner": "https://thetork.com/demos/vue/educax/images/testimonial/home3/review/3.png",
+        "role": "Web Designer",
+        "rating": 1,
+        "quote": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage",
+        "thumbnail": "https://thetork.com/demos/vue/educax/images/testimonial/home1/3.png"
+    },
+    {
+        "name": "Devon Lane",
+        "role": "Content Writer",
+        "rating": 5,
+        "banner": "https://thetork.com/demos/vue/educax/images/testimonial/home3/review/4.png",
+        "quote": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage",
+        "thumbnail": "https://thetork.com/demos/vue/educax/images/testimonial/home1/4.png"
+    },
+    {
+        "name": "Jerome Bell",
+        "banner": "https://thetork.com/demos/vue/educax/images/testimonial/home3/review/3.png",
+        "role": "Web Designer",
+        "rating": 1,
+        "quote": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage",
+        "thumbnail": "https://thetork.com/demos/vue/educax/images/testimonial/home1/3.png"
+    }
+]
