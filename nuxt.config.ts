@@ -45,8 +45,8 @@ export default defineNuxtConfig({
 
     baseURL: process.env.BASE_URL || "/",
   },
-  css: ["~/assets/scss/main.scss", "~/assets/scss/style.scss"],
-  modules: ["@pinia/nuxt", "@nuxt/content"],
+  css: ["~/assets/scss/main.scss", "~/assets/scss/style.scss",'@fortawesome/fontawesome-free/css/all.css'],
+  modules: ["@nuxt/content", "@nuxt/image"],
   runtimeConfig: {
     public: {
       baseApiUrl: process.env.API_BASE_URL || "/api",
@@ -77,7 +77,6 @@ export default defineNuxtConfig({
     },
   },
   plugins: [
-  
   ],
   /// routes: ["/"],
   router: {
