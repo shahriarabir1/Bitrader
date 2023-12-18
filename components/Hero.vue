@@ -7,7 +7,7 @@
             height="0"
             sizes="100vw"
             style="width: 100%; height: auto;"
-            src="@/images/banner/home1/bg.png"
+            src="@/images/banner/home1/bg.png" 
             alt="section-bg-element"
             class="dark d-none d-lg-block"
           />
