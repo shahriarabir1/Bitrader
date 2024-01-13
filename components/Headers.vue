@@ -246,6 +246,7 @@
   
   
 <script>
+
 export default {
   data() {
     return {
@@ -269,6 +270,7 @@ export default {
     toggleTheme() {
       const theme = localStorage.getItem('theme');
       this.updateThemeColor(theme && theme === 'dark' ? 'light' : 'dark');
+      console.log(theme)
     },
     updateThemeColor(themeMode) {
       const colorSwitcher = document.getElementById('btnSwitch');
