@@ -82,5 +82,10 @@ export default defineNuxtConfig({
   router: {
     base: process.env.BASE_URL || "/",
   },
+  vite: {
+    build: {
+      assetsDir: 'public',
+    },
+  },
 
 })

@@ -13,7 +13,7 @@
           <div class="col-lg-6 col-md-7">
             <div class="banner__content" data-aos="fade-right" data-aos-duration="1000">
               <div class="banner__content-coin">
-                <img src="@/images/banner/home1/3.png" alt="coin icon" /> <!-- Update the path as needed -->
+                <NuxtImg src="/images/banner/home1/3.png" alt="coin icon" /> <!-- Update the path as needed -->
               </div>
               <h1 class="banner__content-heading">
                 Invest your money with <span>higher return</span>
@@ -32,9 +32,7 @@
 
                 <NuxtLink @click="toggleToggler" class="trk-btn trk-btn--outline22">
                   <span class="style1">
-                    <img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none'%3E%3C!-- Your SVG path here --%3E%3C/svg%3E"
-                      alt="Your SVG Image" />
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none'%3E%3C!-- Your SVG path here --%3E%3C/svg%3E" alt="Your SVG Image" />
                   </span>
                   Watch Video
                 </NuxtLink>
